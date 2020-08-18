@@ -1,0 +1,24 @@
+{
+  "name": "aws-challenge",
+  "version": "1.0.0",
+  "description": "Hello, and welcome to the AWS challenge! You'll find a set of instructions below that you must attempt to complete within 3 days. Clone this repository to start the challenge, and good luck! When completed, push your solution to a _new_ repository, and send us a link. _Do not create a PR against this repository._",
+  "main": "connection.js",
+  "dependencies": {
+    "aws-sdk": "^2.735.0",
+    "short-unique-id": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rackerlabs/aws-challenge.git"
+  },
+  "author": "Pradeep Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rackerlabs/aws-challenge/issues"
+  },
+  "homepage": "https://github.com/rackerlabs/aws-challenge#readme"
+}
